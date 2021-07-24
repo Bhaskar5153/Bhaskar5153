@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhaskar5153
+- 👋 Hi, I’m @Bhaskar P
 - 👀 I’m interested in python, data science, ML and AI
 - 🌱 I’m currently learning the above technology
 - 💞️ I’m looking to collaborate on projects like create AI chatbot
